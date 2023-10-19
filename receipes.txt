@@ -1,0 +1,7 @@
+receipe name: Biriyani
+ingredients :
+    rice 1kg
+    ghee 200gm
+    onion 1kg
+    chicken 1kg
+    
