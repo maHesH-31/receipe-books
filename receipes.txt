@@ -4,4 +4,7 @@ ingredients :
     ghee 200gm
     onion 1kg
     chicken 1kg
+    water 5cups
+    nuts 100gms
+
     
